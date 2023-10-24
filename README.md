@@ -1,5 +1,7 @@
 # Camuflar_archivo
 Permite camuflar o empaquetar un archivo dentro de una imagen jpg
+
+
 ![logo_goset5](https://github.com/gohset/Camuflar_archivo/assets/76674375/e63f4b2b-781f-4022-8376-61be6bd0a56d)
 
 # 1 Ejecutar el archivo << Camuflar_Archivo.py >> para realizar lo siguiente
